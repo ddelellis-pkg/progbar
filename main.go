@@ -1,4 +1,4 @@
-package progress_bar
+package progbar
 
 // "self_utilities/progress_bar"
 

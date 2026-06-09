@@ -1,3 +1,3 @@
-module github.com/dan0delellis/self_utilities/progress_bar
+module github.com/ddelellis-pkg/progress_bar
 
 go 1.15.0
